@@ -7,6 +7,18 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "3.11.5"
+tqdm = "^4.66.5"
+accelerate = "^0.33.0"
+llama-index = "^0.10.65"
+llama-index-embeddings-huggingface = "^0.2.3"
+llama-index-vector-stores-faiss = "^0.1.2"
+pymupdf4llm = "^0.0.10"
+tabula-py = "^2.9.3"
+pdfplumber = "^0.11.3"
+unstructured = "^0.15.5"
+pillow-heif = "^0.18.0"
+matplotlib = "^3.9.2"
+unstructured-inference = "^0.7.36"
 
 
 [tool.poetry.group.dev.dependencies]
