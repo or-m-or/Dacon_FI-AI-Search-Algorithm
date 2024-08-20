@@ -19,6 +19,8 @@ unstructured = "^0.15.5"
 pillow-heif = "^0.18.0"
 matplotlib = "^3.9.2"
 unstructured-inference = "^0.7.36"
+llama-index-llms-huggingface = "^0.2.8"
+llama-index-postprocessor-cohere-rerank = "^0.1.7"
 
 
 [tool.poetry.group.dev.dependencies]
