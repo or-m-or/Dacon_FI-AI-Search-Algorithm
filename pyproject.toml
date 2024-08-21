@@ -21,6 +21,8 @@ matplotlib = "^3.9.2"
 unstructured-inference = "^0.7.36"
 llama-index-llms-huggingface = "^0.2.8"
 llama-index-postprocessor-cohere-rerank = "^0.1.7"
+langchain = "^0.2.14"
+torch = "^2.4.0"
 
 
 [tool.poetry.group.dev.dependencies]
